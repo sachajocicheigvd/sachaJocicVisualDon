@@ -3,8 +3,8 @@
 
  <!-- Jumbotron -->
  <div class="p-5 text-center bg-light">
-    <h1 class="mb-3">L'évolution de la production d'électricité</h1>
-    <h4 class="mb-3">un voyage à travers les énergies renouvelables et non renouvelables</h4>
+    <h1 class="mb-3">Swissergy: L'évolution de la production d'électricité</h1>
+    <h4 class="mb-3">un voyage à travers les énergies</h4>
   </div>
 </template>
 
