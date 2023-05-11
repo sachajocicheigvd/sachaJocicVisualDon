@@ -48,7 +48,6 @@
 <script setup>
 
 import TheEntete from './components/TheEntete.vue';
-import BarChart from './components/BarChart.vue';
 import theMap from './components/theMap.vue'
 import theFilter from './components/theFilter.vue';
 import 'https://d3js.org/d3.v6.min.js';
