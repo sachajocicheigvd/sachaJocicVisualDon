@@ -8,6 +8,8 @@ But: Le but est de découvrir les tendances de production d'électricité en Sui
 Références: Le site web de l'Administration fédérale suisse des contributions (UVEK) a utilisé ces données pour créer une petite visualisation sur les installations de production d'électricité en Suisse. D'autres organisations gouvernementales, des chercheurs et des entreprises peuvent également avoir utilisé ces données pour des analyses et des études sur l'énergie en Suisse. Source principale: https://opendata.swiss/fr/dataset/elektrizitatsproduktionsanlagen https://www.uvek-gis.admin.ch/BFE/storymaps/EE_Elektrizitaetsproduktionsanlagen/
 
 WireFrame 2023-03-16_11-43-03 2023-03-16_11-45-55
+![225594045-be5dedf2-79a4-4cf6-9027-5b415e01be82](https://github.com/sachajocicheigvd/sachaJocicVisualDon/assets/115351469/c764a500-36c2-4fef-b45e-2acd03ea954a)
+![225594042-04c576d7-d2fd-430f-b401-a86eb028510a](https://github.com/sachajocicheigvd/sachaJocicVisualDon/assets/115351469/ca5b672f-e294-4716-8840-526b211b575b)
 
 Leaflet comme maps avec open street map
 # energyProject
